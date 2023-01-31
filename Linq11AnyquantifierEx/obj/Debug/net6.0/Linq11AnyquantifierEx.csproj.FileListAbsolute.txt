@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\bin\Debug\net6.0\Linq11AnyquantifierEx.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\bin\Debug\net6.0\Linq11AnyquantifierEx.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\bin\Debug\net6.0\Linq11AnyquantifierEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\bin\Debug\net6.0\Linq11AnyquantifierEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\bin\Debug\net6.0\Linq11AnyquantifierEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\refint\Linq11AnyquantifierEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\Linq11AnyquantifierEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq11AnyquantifierEx\obj\Debug\net6.0\ref\Linq11AnyquantifierEx.dll

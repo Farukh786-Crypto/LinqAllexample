@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\bin\Debug\net6.0\Linq26LastEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\bin\Debug\net6.0\Linq26LastEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\bin\Debug\net6.0\Linq26LastEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\bin\Debug\net6.0\Linq26LastEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\bin\Debug\net6.0\Linq26LastEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\refint\Linq26LastEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\Linq26LastEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq26LastEx\obj\Debug\net6.0\ref\Linq26LastEx.dll

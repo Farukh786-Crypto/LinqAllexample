@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\bin\Debug\net6.0\Linq3SelectExample.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\bin\Debug\net6.0\Linq3SelectExample.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\bin\Debug\net6.0\Linq3SelectExample.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\bin\Debug\net6.0\Linq3SelectExample.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\bin\Debug\net6.0\Linq3SelectExample.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\refint\Linq3SelectExample.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\Linq3SelectExample.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq3SelectExample\obj\Debug\net6.0\ref\Linq3SelectExample.dll

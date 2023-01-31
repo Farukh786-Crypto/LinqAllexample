@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\bin\Debug\net6.0\Linq20SkipWhileEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\bin\Debug\net6.0\Linq20SkipWhileEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\bin\Debug\net6.0\Linq20SkipWhileEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\bin\Debug\net6.0\Linq20SkipWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\bin\Debug\net6.0\Linq20SkipWhileEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\refint\Linq20SkipWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\Linq20SkipWhileEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq20SkipWhileEx\obj\Debug\net6.0\ref\Linq20SkipWhileEx.dll

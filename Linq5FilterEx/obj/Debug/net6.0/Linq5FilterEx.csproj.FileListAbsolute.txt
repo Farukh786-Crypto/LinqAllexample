@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\bin\Debug\net6.0\Linq5FilterEx.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\bin\Debug\net6.0\Linq5FilterEx.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\bin\Debug\net6.0\Linq5FilterEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\bin\Debug\net6.0\Linq5FilterEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\bin\Debug\net6.0\Linq5FilterEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\refint\Linq5FilterEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\Linq5FilterEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq5FilterEx\obj\Debug\net6.0\ref\Linq5FilterEx.dll

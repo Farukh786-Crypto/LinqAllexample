@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\bin\Debug\net6.0\Linq25firstEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\bin\Debug\net6.0\Linq25firstEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\bin\Debug\net6.0\Linq25firstEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\bin\Debug\net6.0\Linq25firstEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\bin\Debug\net6.0\Linq25firstEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\refint\Linq25firstEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\Linq25firstEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq25firstEx\obj\Debug\net6.0\ref\Linq25firstEx.dll

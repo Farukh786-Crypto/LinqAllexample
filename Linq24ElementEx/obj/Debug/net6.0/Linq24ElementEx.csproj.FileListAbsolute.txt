@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\bin\Debug\net6.0\Linq24ElementEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\bin\Debug\net6.0\Linq24ElementEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\bin\Debug\net6.0\Linq24ElementEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\bin\Debug\net6.0\Linq24ElementEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\bin\Debug\net6.0\Linq24ElementEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\refint\Linq24ElementEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\Linq24ElementEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq24ElementEx\obj\Debug\net6.0\ref\Linq24ElementEx.dll

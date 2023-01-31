@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\bin\Debug\net6.0\Linq23LeftJoinEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\bin\Debug\net6.0\Linq23LeftJoinEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\bin\Debug\net6.0\Linq23LeftJoinEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\bin\Debug\net6.0\Linq23LeftJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\bin\Debug\net6.0\Linq23LeftJoinEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\refint\Linq23LeftJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\Linq23LeftJoinEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq23LeftJoinEx\obj\Debug\net6.0\ref\Linq23LeftJoinEx.dll

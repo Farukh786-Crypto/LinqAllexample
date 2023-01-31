@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\bin\Debug\net6.0\Linq18TakeWhileEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\bin\Debug\net6.0\Linq18TakeWhileEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\bin\Debug\net6.0\Linq18TakeWhileEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\bin\Debug\net6.0\Linq18TakeWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\bin\Debug\net6.0\Linq18TakeWhileEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\refint\Linq18TakeWhileEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\Linq18TakeWhileEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq18TakeWhileEx\obj\Debug\net6.0\ref\Linq18TakeWhileEx.dll

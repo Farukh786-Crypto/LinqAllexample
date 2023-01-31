@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\bin\Debug\net6.0\Linq9ReverseEx.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\bin\Debug\net6.0\Linq9ReverseEx.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\bin\Debug\net6.0\Linq9ReverseEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\bin\Debug\net6.0\Linq9ReverseEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\bin\Debug\net6.0\Linq9ReverseEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\refint\Linq9ReverseEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\Linq9ReverseEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq9ReverseEx\obj\Debug\net6.0\ref\Linq9ReverseEx.dll

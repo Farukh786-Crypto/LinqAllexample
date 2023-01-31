@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\bin\Debug\net6.0\Linq22GroupJoinEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\bin\Debug\net6.0\Linq22GroupJoinEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\bin\Debug\net6.0\Linq22GroupJoinEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\bin\Debug\net6.0\Linq22GroupJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\bin\Debug\net6.0\Linq22GroupJoinEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\refint\Linq22GroupJoinEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\Linq22GroupJoinEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq22GroupJoinEx\obj\Debug\net6.0\ref\Linq22GroupJoinEx.dll

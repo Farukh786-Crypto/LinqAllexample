@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\bin\Debug\net6.0\Linq12ContainsEx.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\bin\Debug\net6.0\Linq12ContainsEx.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\bin\Debug\net6.0\Linq12ContainsEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\bin\Debug\net6.0\Linq12ContainsEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\bin\Debug\net6.0\Linq12ContainsEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\refint\Linq12ContainsEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\Linq12ContainsEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq12ContainsEx\obj\Debug\net6.0\ref\Linq12ContainsEx.dll

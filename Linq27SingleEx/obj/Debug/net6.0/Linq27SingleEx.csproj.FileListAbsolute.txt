@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\bin\Debug\net6.0\Linq27SingleEx.exe
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\bin\Debug\net6.0\Linq27SingleEx.deps.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\bin\Debug\net6.0\Linq27SingleEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\bin\Debug\net6.0\Linq27SingleEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\bin\Debug\net6.0\Linq27SingleEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\refint\Linq27SingleEx.dll
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.pdb
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\Linq27SingleEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1AllCode\Linq27SingleEx\obj\Debug\net6.0\ref\Linq27SingleEx.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Linq16UnionEx/1.0.0": {
+        "runtime": {
+          "Linq16UnionEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq16UnionEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

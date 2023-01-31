@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Linq7SortingEx/1.0.0": {
+        "dependencies": {
+          "Linq5FilterEx": "1.0.0"
+        },
+        "runtime": {
+          "Linq7SortingEx.dll": {}
+        }
+      },
+      "Linq5FilterEx/1.0.0": {
+        "runtime": {
+          "Linq5FilterEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq7SortingEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Linq5FilterEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

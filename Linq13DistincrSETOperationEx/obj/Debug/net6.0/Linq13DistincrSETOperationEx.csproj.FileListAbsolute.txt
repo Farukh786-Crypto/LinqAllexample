@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\bin\Debug\net6.0\Linq13DistincrSETOperationEx.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\bin\Debug\net6.0\Linq13DistincrSETOperationEx.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\bin\Debug\net6.0\Linq13DistincrSETOperationEx.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\bin\Debug\net6.0\Linq13DistincrSETOperationEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\bin\Debug\net6.0\Linq13DistincrSETOperationEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\refint\Linq13DistincrSETOperationEx.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\Linq13DistincrSETOperationEx.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq13DistincrSETOperationEx\obj\Debug\net6.0\ref\Linq13DistincrSETOperationEx.dll

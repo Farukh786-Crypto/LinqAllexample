@@ -1,0 +1,15 @@
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\bin\Debug\net6.0\Linq2Example.exe
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\bin\Debug\net6.0\Linq2Example.deps.json
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\bin\Debug\net6.0\Linq2Example.runtimeconfig.json
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\bin\Debug\net6.0\Linq2Example.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\bin\Debug\net6.0\Linq2Example.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.csproj.AssemblyReference.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.AssemblyInfoInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.AssemblyInfo.cs
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.csproj.CoreCompileInputs.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\refint\Linq2Example.dll
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.pdb
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\Linq2Example.genruntimeconfig.cache
+D:\youtube\WebGentle Code\Linq1Example\Linq2Example\obj\Debug\net6.0\ref\Linq2Example.dll
